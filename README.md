@@ -1,5 +1,7 @@
 # Order & Inventory Management
 
+Using Flask and PostgreSQL.
+
 Firstly a signup-login system is added for assigning the role of admin and user to various users logging into the application.
 Secondly, different endpoints are created such as 'orders', 'inventory' and 'retrieve_orders'
 
